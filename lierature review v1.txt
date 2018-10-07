@@ -1,0 +1,18 @@
+=>Literature Review on Image privacy and protection
+
+- is it possible to get notified on your android phone when someone takes your photo from his phone
+
+On this moment, somewhat we all known about how our photos and files can get exploited on social network platform.
+Like on Whatsapp, facebook, instagram etc. These platforms makes us visible on social network but on some level 
+its become hard protect our data on these platforms. And also even in our mobile phones data has to be secure in a way
+that we must know who is the person that have our data or who can get our data.
+
+The most common target is the image of user. Anyone can take pictures and post it on social media through mobile phones. 
+And now a days, it has become trend of making meme(viral pics and videos which denotes persons actions, behavior, identity etc.) 
+and post it on social media for gaining popularity and publicity. But it can harm the persons feelings and motives by publicizing 
+his identity on social paltform. So to decrease these unwanted activities we should take some actions on protecting our data on some 
+cost.
+
+At beggining of searching the methodologies of image privacy
+
+My web design portfolio includes the skills in front-end development programming languages and tools like. 
